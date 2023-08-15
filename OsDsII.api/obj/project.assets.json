@@ -1450,11 +1450,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\3DS- Geovana\\OsDsII.api\\OsDsII.api.csproj",
+      "projectUniqueName": "A:\\3DS- Geovana\\DSII\\OsDsII.api\\OsDsII.api.csproj",
       "projectName": "OsDsII.api",
-      "projectPath": "A:\\3DS- Geovana\\OsDsII.api\\OsDsII.api.csproj",
+      "projectPath": "A:\\3DS- Geovana\\DSII\\OsDsII.api\\OsDsII.api.csproj",
       "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-      "outputPath": "A:\\3DS- Geovana\\OsDsII.api\\obj\\",
+      "outputPath": "A:\\3DS- Geovana\\DSII\\OsDsII.api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
